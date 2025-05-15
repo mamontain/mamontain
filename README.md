@@ -1,4 +1,5 @@
 ## Hi there 👋
+🌱 I’m currently learning data science and working on various projects to advance my knowledge of machine learning, big data management, and statistics.
 
 <!--
 **mamontain/mamontain** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
